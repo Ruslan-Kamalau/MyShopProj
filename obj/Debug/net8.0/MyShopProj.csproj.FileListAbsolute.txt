@@ -1,14 +1,5 @@
-C:\Repo\MyShopProj\bin\Debug\net8.0\MyShopProj.exe
-C:\Repo\MyShopProj\bin\Debug\net8.0\MyShopProj.deps.json
-C:\Repo\MyShopProj\bin\Debug\net8.0\MyShopProj.runtimeconfig.json
-C:\Repo\MyShopProj\bin\Debug\net8.0\MyShopProj.dll
-C:\Repo\MyShopProj\bin\Debug\net8.0\MyShopProj.pdb
 C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.GeneratedMSBuildEditorConfig.editorconfig
 C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.AssemblyInfoInputs.cache
 C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.AssemblyInfo.cs
 C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.csproj.CoreCompileInputs.cache
-C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.dll
-C:\Repo\MyShopProj\obj\Debug\net8.0\refint\MyShopProj.dll
-C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.pdb
-C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.genruntimeconfig.cache
-C:\Repo\MyShopProj\obj\Debug\net8.0\ref\MyShopProj.dll
+C:\Repo\MyShopProj\obj\Debug\net8.0\MyShopProj.sourcelink.json
